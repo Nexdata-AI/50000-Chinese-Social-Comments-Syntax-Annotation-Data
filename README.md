@@ -3,7 +3,7 @@
 ## Description
 50,000 Chinese social comments syntax annotated data. The contents are hot news in 2013. It is annotated with dependency syntax. The contents cover entertainment, economics, technology, fashion, sports, culture and society. The data is stored in xml and can be used for natural language understanding.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/85?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
